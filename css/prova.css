@@ -15,11 +15,11 @@
 .item-block input {
 display: block;
 }
-  h3 {
+h3 {
     font-family: Consolas, Menlo, "courier new", monospace;
     font-size: small;
     color: red;
   }
-  fieldset{
+fieldset{
     background-color: #eeeeee;
   }   
